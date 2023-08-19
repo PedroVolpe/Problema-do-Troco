@@ -1,10 +1,10 @@
 # Problema-do-Troco
 Algoritmo para encontrar o número mínimo de moedas para dar de troco, dado um valor.
 
-Qual o número mínimo de moedas para fazer um troco?\n
-Encontre um algoritmo que consiga determinar o número mínimo de moedas para um certo valor.\n
+Qual o número mínimo de moedas para fazer um troco?
+Encontre um algoritmo que consiga determinar o número mínimo de moedas para um certo valor.
 
-Para esse problema decidi utilizar três abordagens diferentes, utilizando recurção e utilizando de programação dinamica, com o método bottomUp e TopDown.\n
+Para esse problema decidi utilizar três abordagens diferentes, utilizando recurção e utilizando de programação dinamica, com o método bottomUp e TopDown.
 
 Em todos os casos as entradas são iguais. Com diferença apenas no desempenho de cada um deles. 
 
